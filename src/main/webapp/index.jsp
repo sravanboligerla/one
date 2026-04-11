@@ -938,7 +938,7 @@
                     <h3>Chanel No. 5</h3>
                     <div class="price">$120</div>
                     <div class="rating">★★★★★ <span>(189)</span></div>
-                    <button class="add-to-cart">Add to Cart</button>
+                    <button class="add-to-bucket list">Add to Cart</button>
                 </div>
             </div>
             <div class="product-card">
