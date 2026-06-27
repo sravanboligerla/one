@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://15.134.86.110:8081/repository/nexusrepo/</url>
+		    <url>http://15.135.166.26:8081/repository/sravanarch/</url>
 		</repository>
   	</distributionManagement>
 	
